@@ -1,6 +1,6 @@
 
 
-    public class Day6 {
+  /*   public class Day6 {
 
     static class Car {
         String color;
@@ -72,7 +72,11 @@
         car.refill(20);
         car.showFuel();
     }
-}
+} */
+
+
+
+    
 
 
 
