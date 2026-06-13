@@ -1,4 +1,4 @@
-public class day8 {
+public class day8_record {
     record StudentRecord(String course,String department){
     }
     static void main(){
@@ -6,4 +6,10 @@ public class day8 {
         System.out.println(studentRecord.course());
         System.out.println(studentRecord.department());
     }
+
 }
+
+
+
+
+
