@@ -1,5 +1,6 @@
 import java.util.LinkedList;
-public class day10 {
+public class day10_list
+{
     static void main() {
         LinkedList<String> queue = new LinkedList<String>();
         queue.add("Box");

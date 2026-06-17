@@ -15,7 +15,7 @@ public class day10_ex {
     }
 
     static void removeStudent(LinkedList<Student> students) {
-        System.out.println("Removed : " + students.removeFirst().name);
+        System.out.println("Removed : " + students.remove(3).name);
     }
 
     static void updateStudent(LinkedList<Student> students) {
@@ -31,10 +31,10 @@ public class day10_ex {
         LinkedList<Student> students = new LinkedList<>();
 
 
-        students.add(new Student("Ram", 852, 96));
+        students.add(new Student("Ram", 852,  96));
         students.add(new Student("Raja", 853, 65));
         students.add(new Student("Raji", 854, 82 ));
-        students.add(new Student("Rekka", 855, 63));
+        students.add(new Student("Rekka", 855,63));
         students.add(new Student("Ravi", 856, 91));
 
 
