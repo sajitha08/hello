@@ -1,4 +1,4 @@
-/*import java.util.ArrayList;
+import java.util.ArrayList;
 public class day10 {
     static void main() {
         ArrayList<String> list= new ArrayList<String> ();
@@ -19,8 +19,6 @@ public class day10 {
         }
     }
 }
-*/
-
 
 
 
