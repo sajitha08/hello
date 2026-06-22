@@ -1,4 +1,3 @@
-public class(){
+public class hello{
     
 }
-}   
